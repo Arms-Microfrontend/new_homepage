@@ -1,0 +1,38 @@
+.home {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .title {
+    font-size: 2rem;
+  }
+  
+  .subtitle {
+    font-size: 1.2rem;
+    margin-top: 10px;
+  }
+  
+  .sample-content {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+  }
+  
+  .sample-content ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .sample-content h2 {
+    font-size: 1.5rem;
+  }
+  
